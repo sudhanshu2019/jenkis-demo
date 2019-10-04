@@ -2,5 +2,5 @@
 int main()
 {
 printf("This is a jenkin test\n");
-exit (0);
+exit(0);
 }
